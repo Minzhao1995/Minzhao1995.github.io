@@ -4,17 +4,19 @@ You can use the [editor on GitHub](https://github.com/Minzhao1995/Minzhao1995.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### test
+## Hongqi-H7 Self-driving Car
+<img src="https://minzhao1995.github.io/figures/hongqi.png" title="Logo" width="500" />
+Designed a lane detection algorithm. SegNet is used to segment the ground region. Then the image with the ground mask is transformed into bird's-eye view by Inverse Perspective Mapping (IPM). Hough transform is used to detect the lane. Then the feature maps of the image patches on the lane candidate regions are fed to a classification network to obtain the type of the lane. The algorithm can run at a frequency of 5Hz on the computer with NVIDIA GTX 1070.
 
-![opensuse-laptop](https://www.opensuse.org/build/images/opensuse-laptop.gif)
-there is a figure133132313
+## BankBot
+<img src=https://minzhao1995.github.io/figures/hongqi.png" title="Logo" width="500" />
+Designed a localization algorithm which can be used for docking with the auto-charge station. The algorithm uses 2D-laser SLAM and visual-based charge station detection to localize the robot. Up until now, the robot has been deployed into service at 35 banks for 2 years.
+
+
 
 <center class="half">
     <img src="https://minzhao1995.github.io/figures/hongqi.png" width="400"/><img src="https://www.opensuse.org/build/images/opensuse-laptop.gif" width="200"/>
 </center>
-
-
-# Education 
 
 ### Markdown
 

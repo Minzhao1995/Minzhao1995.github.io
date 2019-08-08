@@ -4,18 +4,18 @@ You can use the [editor on GitHub](https://github.com/Minzhao1995/Minzhao1995.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### test
-![hongqi3](https://minzhao1995.github.io//figures/hongqi.png)
-there is a figure1132313
-![opensuse-laptop](https://www.opensuse.org/build/images/opensuse-laptop.gif)
-there is a figure133132313
-
+## Hongqi-H7 Self-driving Car
 <center class="half">
-    <img src="https://img-blog.csdn.net/2018061215200776?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxODA4OTYx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="200"/><img src="https://img-blog.csdn.net/20180612152032532?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxODA4OTYx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="200"/><img src="https://img-blog.csdn.net/20180612152100203?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxODA4OTYx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="200"/>
+    <img src="https://minzhao1995.github.io/figures/hongqi.png" width="400"/><img src="https://www.opensuse.org/build/images/opensuse-laptop.gif" width="200"/>
 </center>
+Designed a lane detection algorithm. SegNet is used to segment the ground region. Then the image with the ground mask is transformed into bird's-eye view by Inverse Perspective Mapping (IPM). Hough transform is used to detect the lane. Then the feature maps of the image patches on the lane candidate regions are fed to a classification network to obtain the type of the lane. The algorithm can run at a frequency of 5Hz on the computer with NVIDIA GTX 1070.
 
 
-# Education 
+## Hongqi-H7 Self-driving Car 
+
+
+
+
 
 ### Markdown
 
