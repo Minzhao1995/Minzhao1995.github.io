@@ -5,13 +5,12 @@ You can use the [editor on GitHub](https://github.com/Minzhao1995/Minzhao1995.gi
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### test
-![hongqi3](https://minzhao1995.github.io//figures/hongqi.png)
-there is a figure1132313
+
 ![opensuse-laptop](https://www.opensuse.org/build/images/opensuse-laptop.gif)
 there is a figure133132313
 
 <center class="half">
-    <img src="https://img-blog.csdn.net/2018061215200776?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxODA4OTYx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="200"/><img src="https://img-blog.csdn.net/20180612152032532?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxODA4OTYx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="200"/><img src="https://img-blog.csdn.net/20180612152100203?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxODA4OTYx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="200"/>
+    <img src="https://minzhao1995.github.io/figures/hongqi.png" width="400"/><img src="https://www.opensuse.org/build/images/opensuse-laptop.gif" width="200"/>
 </center>
 
 
