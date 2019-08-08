@@ -18,7 +18,7 @@ Designed a localization algorithm which can be used for docking with the auto-ch
 
 <div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://minzhao1995.github.io/figures/bankbot.png" alt="screens2hot" title="screen22shot" width="250" ></div>
 
-<div style="float:left;border:solid 1px 000;margin:2px;" <video id="video" controls="" preload="none" poster="https://minzhao1995.github.io/figures/bankbot.png"><source id="mp4" src="https://minzhao1995.github.io/figures/navigation.mp4" type="video/mp4"  width="250"></video></div>
+<div style="float:left;border:solid 1px 000;margin:2px;"> <video id="video" controls="" preload="none" poster="https://minzhao1995.github.io/figures/bankbot.png"><source id="mp4" src="https://minzhao1995.github.io/figures/navigation.mp4" type="video/mp4"  width="250"></video></div>
 <div style="clear:both;"> </div>
 
 

@@ -12,15 +12,14 @@ Designed a lane detection algorithm. SegNet is used to segment the ground region
 <img src="https://minzhao1995.github.io/figures/bankbot.png" title="bankbot" width="400" />
 Designed a localization algorithm which can be used for docking with the auto-charge station. The algorithm uses 2D-laser SLAM and visual-based charge station detection to localize the robot. Up until now, the robot has been deployed into service at 35 banks for 2 years.
 
-<video id="video" controls="" preload="none" poster="https://minzhao1995.github.io/figures/bankbot.png">
-<source id="mp4" src="https://minzhao1995.github.io/figures/navigation.mp4" type="video/mp4">
-</video>
 
 
 <div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://minzhao1995.github.io/figures/hongqi.png" alt="screenshot" title="screenshot777" width="250" ></div>
 
 <div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://minzhao1995.github.io/figures/bankbot.png" alt="screens2hot" title="screen22shot" width="250" ></div>
-<div style="clear:both;"></div>
+
+<div style="float:left;border:solid 1px 000;margin:2px;" <video id="video" controls="" preload="none" poster="https://minzhao1995.github.io/figures/bankbot.png"><source id="mp4" src="https://minzhao1995.github.io/figures/navigation.mp4" type="video/mp4"  width="250"></video></div>
+<div style="clear:both;"> </div>
 
 
 
