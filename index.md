@@ -17,9 +17,13 @@ Designed a localization algorithm which can be used for docking with the auto-ch
 </video>
 
 
+<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://minzhao1995.github.io/figures/hongqi.png" alt="screenshot" title="screenshot777" width="250" ></div>
 
-<center class="half">
-    <img src="https://minzhao1995.github.io/figures/hongqi.png" width="400"/><img src="https://www.opensuse.org/build/images/opensuse-laptop.gif" width="200"/>
+<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://minzhao1995.github.io/figures/bankbot.png" alt="screens2hot" title="screen22shot" width="250" ></div>
+<div style="clear:both;"></div>
+
+
+
 </center>
 
 ### Markdown
