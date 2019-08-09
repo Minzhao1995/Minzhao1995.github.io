@@ -16,5 +16,12 @@ Proposed a localization method that uses satellite image as the prior informatio
 
 The UAV searches and tracks the moving target (a vehicle) in an unknown area and send the position of the target to the UGV continuously.
 
-dfghaa
+### Hongqi-H7 Self-driving Car
+We win the First Prize in 2017 China Smart Car Future Challenge¡¡Highway Competition. I designed a lane detection algorithm for this car.
+
+<center>
+<img src="https://minzhao1995.github.io/figures/hongqi.png"  width="480"/>
+</center>
+<center>Hongqi-H7 Self-driving Car</center>
+
 
