@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+# Research
+## UAV-UGV Cooperative System
 
-You can use the [editor on GitHub](https://github.com/Minzhao1995/Minzhao1995.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<div align=center><video id="video" controls="" preload="none" poster="https://minzhao1995.github.io/figures/paper.png"  height ="480"><source id="mp4" src="https://minzhao1995.github.io/figures/paper.mp4" type="video/mp4"  height="480"></video>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-#paper
-<video id="video" controls="" preload="none" poster="https://minzhao1995.github.io/figures/paper.png"  height ="480"><source id="mp4" src="https://minzhao1995.github.io/figures/paper.mp4" type="video/mp4"  height="480"></video>
-
+# Projects
 ## UAV-UGV Cooperative System  
 <center class="half">
     <img src="https://minzhao1995.github.io/figures/uav.png" height ="480"/><img src="https://minzhao1995.github.io/figures/air_ground.png" height ="480"/>
@@ -15,7 +13,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 ## Hongqi-H7 Self-driving Car
-<img src="https://minzhao1995.github.io/figures/hongqi.png" title="bankbot" height ="480" />
+<img src="https://minzhao1995.github.io/figures/hongqi.png" title="bankbot" height ="480" div align=center />
 <center>Hongqi-H7 Self-driving Car</center>
 
  We win the First Prize in 2017 China Smart Car Future Challenge¡¡Highway Competition. I designed a lane detection algorithm for this car.
@@ -24,7 +22,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <img src="https://minzhao1995.github.io/figures/svm.gif" title="Intelligent Mouse and Keyboard Switcher" height ="480" />
 <center>Intelligent Mouse and Keyboard Switcher</center>
 
-###### This project is designed to make it easy for users to operate multiple computers with a single mouse and keyboard. Face orientation recognition algorithm is used to find which computer the user desires to use. Then the device automatically switches the mouse & keyboard signals to that computer.
+ This project is designed to make it easy for users to operate multiple computers with a single mouse and keyboard. Face orientation recognition algorithm is used to find which computer the user desires to use. Then the device automatically switches the mouse & keyboard signals to that computer.
 
 
 
