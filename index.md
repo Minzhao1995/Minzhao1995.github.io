@@ -22,7 +22,7 @@
 </center>
 <center>Hongqi-H7 Self-driving Car</center>
 
-&ensp;&ensp;We win the First Prize in 2017 China Smart Car Future Challenge Highway Competition. I designed a lane detection algorithm for this car.
+&ensp;&ensp;We win the First Prize in 2017 China Smart Car Future Challenge Highway Competition. I designed a lane detection algorithm in which SegNet is used to segment the ground region and Hough transform is used to detect the lane in the Bird&apos;s Eye View (BEV). The feature maps of the image patches on the lane candidate regions are fed to a classification network to obtain the type of the lane. 
 
 ### Intelligent Mouse and Keyboard Switcher 
 <center>
@@ -32,6 +32,13 @@
 
 &ensp;&ensp;This project is designed to make it easy for users to operate multiple computers with a single mouse and keyboard. Face orientation recognition algorithm is used to find which computer the user desires to use. Then the device automatically switches the mouse & keyboard signals to that computer.
 
+## BankBot
+
+<img src="https://minzhao1995.github.io/figures/mapping.gif" alt="mapping" title="mapping" width="480"/>
+<img src="https://minzhao1995.github.io/figures/navigation.gif" alt="navigation" title="navigation" width="480"/>
+<img src="https://minzhao1995.github.io/figures/charging.gif" alt="auto charging" title="auto charging" width="480"/>
+
+&ensp;&ensp;I designed a localization algorithm which can be used for docking with the auto-charge station. The algorithm uses 2D-laser SLAM and visual-based charge station detection to localize the robot. Up until now, the robot has been deployed into service at 35 banks for 2 years.
 
 
 
