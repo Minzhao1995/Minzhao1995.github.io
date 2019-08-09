@@ -3,11 +3,10 @@
 
 <video id="video" controls="" preload="none" poster="https://minzhao1995.github.io/figures/paper.png"  width ="480"><source id="mp4" src="https://minzhao1995.github.io/figures/paper.mp4" type="video/mp4"  width="480"></video>
 
-
 # Projects
-## UAV-UGV Cooperative System  
+## UAV-UGV Cooperative System
 
-    <img src="https://minzhao1995.github.io/figures/uav.jpg" height ="120"/><img src="https://minzhao1995.github.io/figures/air_ground.png" height ="120"/>
+<img src="https://minzhao1995.github.io/figures/uav.jpg" height ="120"/><img src="https://minzhao1995.github.io/figures/air_ground.png" height ="120"/>
 
 
  The UAV searches and tracks the moving target (a vehicle) in an unknown area and send the position of the target to the UGV continuously.
@@ -29,12 +28,12 @@
 
 ## BankBot
 
-<img src="https://minzhao1995.github.io/figures/mapping.gif" alt="mapping" title="mapping" width="480" >
+<img src="https://minzhao1995.github.io/figures/mapping.gif" alt="mapping" title="mapping" width="480"/>
 
-<img src="https://minzhao1995.github.io/figures/navigation.gif" alt="navigation" title="navigation" width="480" >
+<img src="https://minzhao1995.github.io/figures/navigation.gif" alt="navigation" title="navigation" width="480"/>
 
 
-<img src="https://minzhao1995.github.io/figures/charging.gif" alt="auto charging" title="auto charging" width="480">
+<img src="https://minzhao1995.github.io/figures/charging.gif" alt="auto charging" title="auto charging" width="480"/>
 
 I designed a localization algorithm which can be used for docking with the auto-charge station. The algorithm uses 2D-laser SLAM and visual-based charge station detection to localize the robot. Up until now, the robot has been deployed into service at 35 banks for 2 years.
 
