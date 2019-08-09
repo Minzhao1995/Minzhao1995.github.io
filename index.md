@@ -4,55 +4,31 @@ You can use the [editor on GitHub](https://github.com/Minzhao1995/Minzhao1995.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+#paper
+<video id="video" controls="" preload="none" poster="https://minzhao1995.github.io/figures/paper.png"><source id="mp4" src="https://minzhao1995.github.io/figures/paper.mp4" type="video/mp4"  height="480"></video>
+
+
+
 ## Hongqi-H7 Self-driving Car
-<img src="https://minzhao1995.github.io/figures/hongqi.png" title="Hongqi-H7 Self-driving Car" width="400" />
-Designed a lane detection algorithm. SegNet is used to segment the ground region. Then the image with the ground mask is transformed into bird's-eye view by Inverse Perspective Mapping (IPM). Hough transform is used to detect the lane. Then the feature maps of the image patches on the lane candidate regions are fed to a classification network to obtain the type of the lane. The algorithm can run at a frequency of 5Hz on the computer with NVIDIA GTX 1070.
+<img src="https://minzhao1995.github.io/figures/hongqi.png" title="bankbot" height ="480" />
+<center>Hongqi-H7 Self-driving Car</center>
+
+###### Designed a lane detection algorithm. SegNet is used to segment the ground region. Then the image with the ground mask is transformed into bird's-eye view by Inverse Perspective Mapping (IPM). Hough transform is used to detect the lane. Then the feature maps of the image patches on the lane candidate regions are fed to a classification network to obtain the type of the lane. The algorithm can run at a frequency of 5Hz on the computer with NVIDIA GTX 1070.
+
 
 ## BankBot
-<img src="https://minzhao1995.github.io/figures/bankbot.png" title="bankbot" width="400" />
+<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://minzhao1995.github.io/figures/mapping.gif" alt="screenshot" title="screenshot777" height="480" ></div>
+
+<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://minzhao1995.github.io/figures/navigation.gif" alt="screens2hot" title="screen22shot" height="480" ></div>
+
+<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://minzhao1995.github.io/figures/charging.gif" alt="screens2hot" title="screen22shot" height="480" ></div>
+
+<div style="clear:both;"> </div>
+
 Designed a localization algorithm which can be used for docking with the auto-charge station. The algorithm uses 2D-laser SLAM and visual-based charge station detection to localize the robot. Up until now, the robot has been deployed into service at 35 banks for 2 years.
 
 
 
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://minzhao1995.github.io/figures/hongqi.png" alt="screenshot" title="screenshot777" width="250" ></div>
-
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://minzhao1995.github.io/figures/bankbot.png" alt="screens2hot" title="screen22shot" width="250" ></div>
-
-<div style="float:left;border:solid 1px 000;margin:2px;"> <video id="video" controls="" preload="none" poster="https://minzhao1995.github.io/figures/bankbot.png"><source id="mp4" src="https://minzhao1995.github.io/figures/navigation.mp4" type="video/mp4"  width="250"></video></div>
-<div style="clear:both;"> </div>
 
 
 
-</center>
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Minzhao1995/Minzhao1995.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
