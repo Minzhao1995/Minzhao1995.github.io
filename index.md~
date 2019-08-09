@@ -7,11 +7,8 @@
 # Projects
 ## UAV-UGV Cooperative System  
 <center class="half">
-    <img src="https://minzhao1995.github.io/figures/uav.jpg" height ="480"/><img src="https://minzhao1995.github.io/figures/air_ground.png" width ="480"/>
+    <img src="https://minzhao1995.github.io/figures/uav.jpg" height ="120"/><img src="https://minzhao1995.github.io/figures/air_ground.png" height ="120"/>
 </center>
-
-
-
 
  The UAV searches and tracks the moving target (a vehicle) in an unknown area and send the position of the target to the UGV continuously.
 
@@ -46,7 +43,7 @@
 I designed a localization algorithm which can be used for docking with the auto-charge station. The algorithm uses 2D-laser SLAM and visual-based charge station detection to localize the robot. Up until now, the robot has been deployed into service at 35 banks for 2 years.
 
 
-test11
+test111
 
 
 
