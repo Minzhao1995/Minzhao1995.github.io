@@ -34,7 +34,6 @@
 
 <img src="https://minzhao1995.github.io/figures/charging.gif" alt="auto charging" title="auto charging" height="480" >
 
-<div style="clear:both;"> </div>
 
 I designed a localization algorithm which can be used for docking with the auto-charge station. The algorithm uses 2D-laser SLAM and visual-based charge station detection to localize the robot. Up until now, the robot has been deployed into service at 35 banks for 2 years.
 
