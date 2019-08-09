@@ -37,18 +37,18 @@
 <img src="https://minzhao1995.github.io/figures/mapping.gif" alt="mapping" title="mapping" width="720"/>
 </center>
 <center>Mapping</center>
-&nbsp; 
+
 <center>
 <img src="https://minzhao1995.github.io/figures/navigation.gif" alt="navigation" title="navigation" width="720"/>
 </center>
 <center>Navigation</center>
-&nbsp; 
+
 <center>
-<img src="https://minzhao1995.github.io/figures/charging.gif" alt="auto charging" title="auto charging" width="600"/>
+<img src="https://minzhao1995.github.io/figures/charging.gif" alt="auto charging" title="auto charging" width="540"/>
 </center>
 <center>Auto Charging</center>
 
-&ensp;&ensp;I designed a localization algorithm which can be used for docking with the auto-charge station. The algorithm uses 2D-laser SLAM and visual-based charge station detection to localize the robot. Up until now, the robot has been deployed into service at 35 banks for 2 years.
+&ensp;&ensp;This mobile robot is designed for bank reception service. I designed a localization algorithm which can be used for docking with the auto-charge station. The algorithm uses 2D-laser SLAM and visual-based charge station detection to localize the robot. Up until now, the robot has been deployed into service at 35 banks for 2 years.
 
 
 

@@ -14,7 +14,7 @@
 </center>
 <center> The UAV in the system</center>
 
-&ensp;&ensp;The UAV searches and tracks the moving target (a vehicle) in an unknown area and send the position of the target to the UGV continuously.
+&ensp;&ensp;The UAV and UGV searches and tracks the moving target (a vehicle) in an unknown area collaboratively. The UAV searches the ground target in a wide area and send the position of the target to the UGV continuously after the target is found.
 
 ### Hongqi-H7 Self-driving Car
 <center>
@@ -22,7 +22,7 @@
 </center>
 <center>Hongqi-H7 Self-driving Car</center>
 
-&ensp;&ensp;We win the First Prize in 2017 China Smart Car Future Challenge Highway Competition. I designed a lane detection algorithm in which SegNet is used to segment the ground region and Hough transform is used to detect the lane in the Bird&apos;s Eye View (BEV). The feature maps of the image patches on the lane candidate regions are fed to a classification network to obtain the type of the lane. 
+&ensp;&ensp;We won the First Prize in 2017 China Smart Car Future Challenge Highway Competition. I designed a lane detection algorithm in which SegNet is used to segment the ground region and Hough transform is used to detect the lane in the Bird&apos;s Eye View (BEV). The feature maps of the image patches on the lane candidate regions are fed to a classification network to obtain the type of the lane. 
 
 ### Intelligent Mouse and Keyboard Switcher 
 <center>
@@ -37,18 +37,18 @@
 <img src="https://minzhao1995.github.io/figures/mapping.gif" alt="mapping" title="mapping" width="720"/>
 </center>
 <center>Mapping</center>
-&nbsp; 
+
 <center>
 <img src="https://minzhao1995.github.io/figures/navigation.gif" alt="navigation" title="navigation" width="720"/>
 </center>
 <center>Navigation</center>
-&nbsp; 
+
 <center>
-<img src="https://minzhao1995.github.io/figures/charging.gif" alt="auto charging" title="auto charging" width="600"/>
+<img src="https://minzhao1995.github.io/figures/charging.gif" alt="auto charging" title="auto charging" width="540"/>
 </center>
 <center>Auto Charging</center>
 
-&ensp;&ensp;I designed a localization algorithm which can be used for docking with the auto-charge station. The algorithm uses 2D-laser SLAM and visual-based charge station detection to localize the robot. Up until now, the robot has been deployed into service at 35 banks for 2 years.
+&ensp;&ensp;This mobile robot is designed for bank reception service. I designed a localization algorithm which can be used for docking with the auto-charge station. The algorithm uses 2D-laser SLAM and visual-based charge station detection to localize the robot. Up until now, the robot has been deployed into service at 35 banks for 2 years.
 
 
 
