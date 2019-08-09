@@ -5,11 +5,11 @@
 
 # Projects
 ## UAV-UGV Cooperative System
+<center class="half">
+<img src="https://minzhao1995.github.io/figures/uav.jpg" height ="240"/><img src="https://minzhao1995.github.io/figures/air_ground.png" height ="240"/>
+</center>
 
-<img src="https://minzhao1995.github.io/figures/uav.jpg" height ="480"/><img src="https://minzhao1995.github.io/figures/air_ground.png" height ="480"/>
-
-
- The UAV searches and tracks the moving target (a vehicle) in an unknown area and send the position of the target to the UGV continuously.
+The UAV searches and tracks the moving target (a vehicle) in an unknown area and send the position of the target to the UGV continuously.
 
 
 
