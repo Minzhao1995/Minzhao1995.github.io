@@ -15,7 +15,7 @@
 
 ## Hongqi-H7 Self-driving Car
 <center>
-<img width="480" src="https://minzhao1995.github.io/figures/hongqi.png"  title="Hongqi-H7"/>
+<img src="https://minzhao1995.github.io/figures/hongqi.png"  width="480"/>
 </center>
 
 <center>Hongqi-H7 Self-driving Car</center>
