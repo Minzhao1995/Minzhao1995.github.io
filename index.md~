@@ -12,7 +12,7 @@
 <center class="half">
 <img src="https://minzhao1995.github.io/figures/uav.jpg" height="240"/><img src="https://minzhao1995.github.io/figures/air_ground.png" height ="240"/>
 </center>
-
+<center> The UAV in the system</center>
 
 &ensp;&ensp;The UAV searches and tracks the moving target (a vehicle) in an unknown area and send the position of the target to the UGV continuously.
 
@@ -37,14 +37,14 @@
 <img src="https://minzhao1995.github.io/figures/mapping.gif" alt="mapping" title="mapping" width="720"/>
 </center>
 <center>Mapping</center>
-
+&nbsp; 
 <center>
 <img src="https://minzhao1995.github.io/figures/navigation.gif" alt="navigation" title="navigation" width="720"/>
 </center>
 <center>Navigation</center>
-
+&nbsp; 
 <center>
-<img src="https://minzhao1995.github.io/figures/charging.gif" alt="auto charging" title="auto charging" width="720"/>
+<img src="https://minzhao1995.github.io/figures/charging.gif" alt="auto charging" title="auto charging" width="600"/>
 </center>
 <center>Auto Charging</center>
 
