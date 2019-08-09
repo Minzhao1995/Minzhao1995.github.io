@@ -1,7 +1,8 @@
 # Research
 ## LiDAR-based Vehicle Localization based on Satellite Image Matching
-
+<center>
 <video id="video" controls="" preload="none" poster="https://minzhao1995.github.io/figures/paper.png"  width ="720"><source id="mp4" src="https://minzhao1995.github.io/figures/paper.mp4" type="video/mp4"  width="720"></video>
+</center>
 
 # Projects
 ## UAV-UGV Cooperative System
