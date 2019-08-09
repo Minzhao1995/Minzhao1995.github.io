@@ -15,9 +15,6 @@
 
 ## Hongqi-H7 Self-driving Car
 
-
-<center>Hongqi-H7 Self-driving Car</center>
-
  We win the First Prize in 2017 China Smart Car Future Challenge¡¡Highway Competition. I designed a lane detection algorithm for this car.
 
 
