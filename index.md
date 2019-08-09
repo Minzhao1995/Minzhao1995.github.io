@@ -1,11 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Minzhao1995/Minzhao1995.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-#paper
-<video id="video" controls="" preload="none" poster="https://minzhao1995.github.io/figures/paper.png"><source id="mp4" src="https://minzhao1995.github.io/figures/paper.mp4" type="video/mp4"  height="480"></video>
+# paper
+<video id="video" controls="" preload="none" poster="https://minzhao1995.github.io/figures/paper.png"  height ="480"><source id="mp4" src="https://minzhao1995.github.io/figures/paper.mp4" type="video/mp4"  height="480"></video>
 
 ## UAV-UGV Cooperative System  
 <center class="half">
@@ -18,7 +12,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <img src="https://minzhao1995.github.io/figures/hongqi.png" title="bankbot" height ="480" />
 <center>Hongqi-H7 Self-driving Car</center>
 
-###### We win the First Prize in 2017 China Smart Car Future Challenge¡¡Highway Competition. I designed a lane detection algorithm for this car.
+ We win the First Prize in 2017 China Smart Car Future Challenge¡¡Highway Competition. I designed a lane detection algorithm for this car.
 
 ## Intelligent Mouse and Keyboard Switcher 
 <img src="https://minzhao1995.github.io/figures/svm.gif" title="Intelligent Mouse and Keyboard Switcher" height ="480" />
@@ -30,11 +24,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 ## BankBot
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://minzhao1995.github.io/figures/mapping.gif" alt="mapping" title="mapping" height="480" ></div>
+<img src="https://minzhao1995.github.io/figures/mapping.gif" alt="mapping" title="mapping" width="480" >
 
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://minzhao1995.github.io/figures/navigation.gif" alt="navigation" title="navigation" height="480" ></div>
+<img src="https://minzhao1995.github.io/figures/navigation.gif" alt="navigation" title="navigation" height="480" >
 
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://minzhao1995.github.io/figures/charging.gif" alt="auto charging" title="auto charging" height="480" ></div>
+<img src="https://minzhao1995.github.io/figures/charging.gif" alt="auto charging" title="auto charging" height="480" >
 
 <div style="clear:both;"> </div>
 
