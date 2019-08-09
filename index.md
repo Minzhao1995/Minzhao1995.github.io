@@ -24,6 +24,14 @@
 
 &ensp;&ensp;We win the First Prize in 2017 China Smart Car Future Challenge Highway Competition. I designed a lane detection algorithm for this car.
 
+### Intelligent Mouse and Keyboard Switcher 
+<center>
+<img src="https://minzhao1995.github.io/figures/svm.gif"  width="480"/>
+</center>
+<center>Intelligent Mouse and Keyboard Switcher</center>
+
+&ensp;&ensp;This project is designed to make it easy for users to operate multiple computers with a single mouse and keyboard. Face orientation recognition algorithm is used to find which computer the user desires to use. Then the device automatically switches the mouse & keyboard signals to that computer.
+
 
 
 
