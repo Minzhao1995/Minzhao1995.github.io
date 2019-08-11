@@ -1,3 +1,7 @@
+# About Me
+&ensp;&enspMy name is Minzhao Zhu. I am a student at Beijing Institute of Technology, China, pursuing my M.S degree in Control Science and Engineering. My research interests are localization and perception of robots.  
+[CV](https://minzhao1995.github.io/figures/MinzhaoZhu_BIT.pdf)
+
 # Research
 ### LiDAR-based Vehicle Localization based on Satellite Image Matching
 <center>
