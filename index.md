@@ -8,6 +8,18 @@
 </center>
 <center>Demonstration Video</center>
 &ensp;&ensp;Proposed a localization method that uses satellite image as the prior information to achieve localization in GNSS-denied area. A neural network is proposed to compare the LiDAR grid-map with the satellite image patch in the Bird&apos;s Eye View (BEV). This network first extracts the spatial-discriminative feature maps of the grid-map and the satellite image respectively, then a classification network is used to compare the feature maps and outputs the probability of correspondence. Then based on the outputs, a particle filter is used to obtain the probability distribution of the vehicle&apos;s pose. Compared with other methods, our method is more robust in some challenging scenarios such as the occluded or shadowed area on the satellite image.
+
+### Research on Air-Ground Collaborative Perception
+<center>
+<img src="https://minzhao1995.github.io/figures/airgroundresearch.png" width="1280"/>
+</center>
+<center>Blindspot Detection. From left to right: LiDAR point cloud, detection result, the actual scene</center>
+
+<center>
+<img src="https://minzhao1995.github.io/figures/airground_result.gif"  width="720"/>
+</center>
+<center>Mapping Result</center>
+ This is my undergraduate research. Proposed a method for complementing the blind spot of the UGV. The LiDAR point cloud is divided into 720 sectors. The blind areas are detected in each sector. Then the UAV uses ORB-SLAM to construct the map of the blind areas. The AprilTags is used to calculate the transformation between the map constructed by the UAV and UGV.
 	
 
 # Projects
@@ -17,11 +29,11 @@
 </center>
 <center> The UAV in the system</center>
 
-&ensp;&ensp;The UAV and UGV searches and tracks the moving target (a vehicle) in an unknown area collaboratively. The UAV searches the ground target in a wide area and send the position of the target to the UGV continuously after the target is found.
+&ensp;&ensp;The UAV and UGV searches and tracks the moving target (a vehicle) in an unknown area collaboratively. The UAV searches the ground target in a wide area and send the position of the target to the UGV continuously after the target is found. This system won the 2018 China Unmanned System Challenge (Air-Ground Collaboration Competition).
 
 ### Hongqi-H7 Self-driving Car
 <center>
-<img src="https://minzhao1995.github.io/figures/hongqi.png" width="480"/>
+<img src="https://minzhao1995.github.io/figures/hongqi.jpg" width="480"/>
 </center>
 <center>Hongqi-H7 Self-driving Car</center>
 
