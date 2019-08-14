@@ -19,7 +19,7 @@
 <img src="https://minzhao1995.github.io/figures/airground_result.gif"  width="720"/>
 </center>
 <center>Mapping Result</center>
- This is my undergraduate research. Proposed a method for complementing the blind spot of the UGV. The LiDAR point cloud is divided into 720 sectors. The blind areas are detected in each sector. Then the UAV uses ORB-SLAM to construct the map of the blind areas. The AprilTags is used to calculate the transformation between the map constructed by the UAV and UGV.
+ &ensp;&ensp;This is my undergraduate research. Proposed a method for complementing the blind spot of the UGV. The LiDAR point cloud is divided into 720 sectors. The blind areas are detected in each sector. Then the UAV uses ORB-SLAM to construct the map of the blind areas. The AprilTags is used to calculate the transformation between the map constructed by the UAV and UGV.
 	
 
 # Projects
