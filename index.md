@@ -2,10 +2,8 @@
 &ensp;&ensp;My name is Minzhao Zhu.I am a engineer at Bytedance AI Lab. Before that, I received M.S degree of Control Science and Engineering in Beijing Institute of Technology. My research interests are localization and perception of robots. ([CV](https://minzhao1995.github.io/figures/MinzhaoZhu_BIT.pdf))
 
 # Publications
-[LiDAR-based vehicle localization on the satellite image via a neural network](https://minzhao1995.github.io/figures/RAS.pdf)
-
-Mengyin Fu, **Minzhao Zhu**, Yi Yang, Wenjie Song, Meiling Wang
-
+[LiDAR-based vehicle localization on the satellite image via a neural network](https://minzhao1995.github.io/figures/RAS.pdf)  
+Mengyin Fu, **Minzhao Zhu**, Yi Yang, Wenjie Song, Meiling Wang  
 Robotics and Autonomous Systems, 2020
 
 <center>
