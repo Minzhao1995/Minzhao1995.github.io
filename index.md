@@ -1,14 +1,17 @@
 # About Me
-&ensp;&ensp;My name is Minzhao Zhu. I am a student at Beijing Institute of Technology, China, pursuing my M.S degree in Control Science and Engineering. My research interests are localization and perception of robots. ([CV](https://minzhao1995.github.io/figures/MinzhaoZhu_BIT.pdf))
+&ensp;&ensp;My name is Minzhao Zhu.I am a engineer at Bytedance AI Lab. Before that, I received M.S degree of Control Science and Engineering in Beijing Institute of Technology. My research interests are localization and perception of robots. ([CV](https://minzhao1995.github.io/figures/MinzhaoZhu_BIT.pdf))
 
-# Research
-### LiDAR-based Vehicle Localization based on Satellite Image Matching
+#Publications
+[LiDAR-based vehicle localization on the satellite image via a neural network](https://minzhao1995.github.io/figures/RAS.pdf)
+Mengyin Fu, **Minzhao Zhu**, Yi Yang, Wenjie Song, Meiling Wang
+Robotics and Autonomous Systems, 2020
 <center>
 <video id="video" controls="" preload="none" poster="https://minzhao1995.github.io/figures/paper.png"  width ="720"><source id="mp4" src="https://minzhao1995.github.io/figures/paper.mp4" type="video/mp4"  width="720"></video>
 </center>
 <center>Demonstration Video</center>
-&ensp;&ensp;Proposed a localization method that uses satellite image as the prior information to achieve localization in GNSS-denied area. A neural network is proposed to compare the LiDAR grid-map with the satellite image patch in the Bird&apos;s Eye View (BEV). This network first extracts the spatial-discriminative feature maps of the grid-map and the satellite image respectively, then a classification network is used to compare the feature maps and outputs the probability of correspondence. Then based on the outputs, a particle filter is used to obtain the probability distribution of the vehicle&apos;s pose. Compared with other methods, our method is more robust in some challenging scenarios such as the occluded or shadowed area on the satellite image.
 
+
+# Research
 ### Research on Air-Ground Collaborative Perception
 <center>
 <img src="https://minzhao1995.github.io/figures/airgroundresearch.png" width="1280"/>
@@ -29,7 +32,7 @@
 </center>
 <center> The UAV in the system</center>
 
-&ensp;&ensp;The UAV and UGV searches and tracks the moving target (a vehicle) in an unknown area collaboratively. The UAV searches the ground target in a wide area and send the position of the target to the UGV continuously after the target is found. This system won the 2018 China Unmanned System Challenge (Air-Ground Collaboration Competition).
+&ensp;&ensp;The UAV and UGV searches and tracks the moving target (a vehicle) in an unknown area (3 km x 3 km) collaboratively. I led our team to build this system and we won the 2018 China Unmanned System Challenge (Air-Ground Collaboration Contest).
 
 ### Hongqi-H7 Self-driving Car
 <center>
@@ -37,7 +40,7 @@
 </center>
 <center>Hongqi-H7 Self-driving Car</center>
 
-&ensp;&ensp;We won the First Prize in 2017 China Smart Car Future Challenge Highway Competition. I designed a lane detection algorithm in which SegNet is used to segment the ground region and Hough transform is used to detect the lane in the Bird&apos;s Eye View (BEV). The feature maps of the image patches on the lane candidate regions are fed to a classification network to obtain the type of the lane. 
+&ensp;&ensp;We won the First Prize in 2017 China Smart Car Future Challenge Highway Contest. As a team member, I designed a lane detection algorithm and a LiDAR-based accessible region detection algorithm.
 
 ### Intelligent Mouse and Keyboard Switcher 
 <center>
@@ -63,7 +66,7 @@
 </center>
 <center>Auto Charging</center>
 
-&ensp;&ensp;This mobile robot is designed for bank reception service. I designed a localization algorithm which can be used for docking with the auto-charge station. The algorithm uses 2D-laser SLAM and visual-based charge station detection to localize the robot. Up until now, the robot has been deployed into service at 35 banks for 2 years.
+&ensp;&ensp;This mobile robot is designed for bank reception service. I designed a 2D-SLAM algorithm in which THE weight of points with high roughness is enhanced so that scan matching in the longitudinal direction can be more accurate. Up until now, the robot has been deployed into service at 35 banks for 2 years.
 
 
 
