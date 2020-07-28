@@ -1,10 +1,13 @@
 # About Me
 &ensp;&ensp;My name is Minzhao Zhu.I am a engineer at Bytedance AI Lab. Before that, I received M.S degree of Control Science and Engineering in Beijing Institute of Technology. My research interests are localization and perception of robots. ([CV](https://minzhao1995.github.io/figures/MinzhaoZhu_BIT.pdf))
 
-#Publications
+# Publications
 [LiDAR-based vehicle localization on the satellite image via a neural network](https://minzhao1995.github.io/figures/RAS.pdf)
+
 Mengyin Fu, **Minzhao Zhu**, Yi Yang, Wenjie Song, Meiling Wang
+
 Robotics and Autonomous Systems, 2020
+
 <center>
 <video id="video" controls="" preload="none" poster="https://minzhao1995.github.io/figures/paper.png"  width ="720"><source id="mp4" src="https://minzhao1995.github.io/figures/paper.mp4" type="video/mp4"  width="720"></video>
 </center>
@@ -66,7 +69,7 @@ Robotics and Autonomous Systems, 2020
 </center>
 <center>Auto Charging</center>
 
-&ensp;&ensp;This mobile robot is designed for bank reception service. I designed a 2D-SLAM algorithm in which THE weight of points with high roughness is enhanced so that scan matching in the longitudinal direction can be more accurate. Up until now, the robot has been deployed into service at 35 banks for 2 years.
+&ensp;&ensp;This mobile robot is designed for bank reception service. I designed a 2D-SLAM algorithm in which The weight of points with high roughness is enhanced so that scan matching in the longitudinal direction can be more accurate. Up until now, the robot has been deployed into service at 35 banks for 2 years.
 
 
 
