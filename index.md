@@ -13,18 +13,17 @@
 
 
 # Research
-### Research on Air-Ground Collaborative Perception
+### Air-Ground Cross-View based LiDAR Odometry and Mapping  
 <center>
-<img src="https://minzhao1995.github.io/figures/airgroundresearch.png" width="1280"/>
+<video id="video" controls="" preload="none" poster="https://minzhao1995.github.io/figures/paper.png"  width ="720"><source id="mp4" src="https://minzhao1995.github.io/figures/ccdc.mp4" type="video/mp4"  width="720"></video>
 </center>
-<center>Blindspot Detection. From left to right: LiDAR point cloud, detection result, the actual scene</center>
 
-<center>
-<img src="https://minzhao1995.github.io/figures/airground_result.gif"  width="720"/>
-</center>
-<center>Mapping Result</center>
- &ensp;&ensp;This is my undergraduate research. I designed a method for complementing the blind spot of the UGV. The LiDAR point cloud is divided into 720 sectors. The blind areas are detected in each sector. Then the UAV uses ORB-SLAM to construct the map of the blind areas. The AprilTags is used to calculate the transformation between the map constructed by the UAV and UGV.
-	
+To reduce the accumulated error of the LiDAR odometry, the satellite image patch, which is cropped on the pose given by the odometry, is compared with the LiDAR grid-map via a neural network. The network directly outputs the pose correction offset, which is added to the factor graph.
+
+### Air-ground Cross-view Semantic SLAM
+
+To improve the precision of semantic segmentation, based on a LiDAR projection image, the semantic information from aerial view is fused with multiple ground views via Bayesian update.
+
 
 # Projects
 ### UAV-UGV Cooperative System
@@ -45,7 +44,7 @@
 
 ### Intelligent Mouse and Keyboard Switcher 
 <center>
-<img src="https://minzhao1995.github.io/figures/svm.gif"  width="480"/>
+<img src="https://minzhao1995.github.io/figures/kvm.gif"  width="480"/>
 </center>
 <center>Demonstration of Usage</center>
 
