@@ -2,7 +2,7 @@
 &ensp;&ensp;My name is Minzhao Zhu. I am an algorithm engineer at Bytedance AI Lab. Before that, I received my M.S degree in Control Science and Engineering at Beijing Institute of Technology. My research interests include localization and perception of robots.  ([CV](https://minzhao1995.github.io/figures/MinzhaoZhu_BIT.pdf))
 
 # Publications
-[LiDAR-based vehicle localization on the satellite image via a neural network](https://minzhao1995.github.io/figures/RAS.pdf)  
+LiDAR-based vehicle localization on the satellite image via a neural network  ([PDF](https://minzhao1995.github.io/figures/RAS.pdf))  
 &ensp;&ensp;Mengyin Fu, **Minzhao Zhu**, Yi Yang, Wenjie Song, Meiling Wang  
 &ensp;&ensp;Robotics and Autonomous Systems, 2020
 
@@ -15,7 +15,7 @@
 # Research
 ### Air-Ground Cross-View based LiDAR Odometry and Mapping  
 <center>
-<video id="video" controls="" preload="none" poster="https://minzhao1995.github.io/figures/paper.png"  width ="720"><source id="mp4" src="https://minzhao1995.github.io/figures/ccdc.mp4" type="video/mp4"  width="720"></video>
+<video id="video" controls="" preload="none" width ="720"><source id="mp4" src="https://minzhao1995.github.io/figures/ccdc.mp4" type="video/mp4"  width="720"></video>
 </center>
 
 To reduce the accumulated error of the LiDAR odometry, the satellite image patch, which is cropped on the pose given by the odometry, is compared with the LiDAR grid-map via a neural network. The network directly outputs the pose correction offset, which is added to the factor graph.
