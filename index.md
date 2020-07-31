@@ -9,13 +9,13 @@ LiDAR-based vehicle localization on the satellite image via a neural network  ([
 <center>
 <video id="video" controls="" preload="none" poster="https://minzhao1995.github.io/figures/paper.png"  width ="720"><source id="mp4" src="https://minzhao1995.github.io/figures/paper.mp4" type="video/mp4"  width="720"></video>
 </center>
-<center>Demonstration Video</center>
+
 
 
 # Research
 ### Air-Ground Cross-View based LiDAR Odometry and Mapping  
 <center>
-<video id="video" controls="" preload="none" width ="720"><source id="mp4" src="https://minzhao1995.github.io/figures/ccdc.mp4" type="video/mp4"  width="720"></video>
+<video id="video" controls="" preload="none" poster="https://minzhao1995.github.io/figures/ccdc.png" width ="720"><source id="mp4" src="https://minzhao1995.github.io/figures/ccdc.mp4" type="video/mp4"  width="720"></video>
 </center>
 
 To reduce the accumulated error of the LiDAR odometry, the satellite image patch, which is cropped on the pose given by the odometry, is compared with the LiDAR grid-map via a neural network. The network directly outputs the pose correction offset, which is added to the factor graph.
