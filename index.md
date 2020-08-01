@@ -22,7 +22,7 @@ To reduce the drifting error of the LiDAR odometry, the satellite image patch, w
 
 ### Air-ground Cross-view Semantic SLAM
 <center>
-<img src="https://minzhao1995.github.io/figures/fusion.jpg" width="480"/>
+<img src="https://minzhao1995.github.io/figures/fusion.png" width="480"/>
 </center>
 <center>Flowchart of cross-view semantic information fusion (take the road category as an example) </center>
 
