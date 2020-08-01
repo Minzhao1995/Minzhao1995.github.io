@@ -18,7 +18,7 @@ LiDAR-based vehicle localization on the satellite image via a neural network  ([
 <video id="video" controls="" preload="none" poster="https://minzhao1995.github.io/figures/ccdc.png" width ="720"><source id="mp4" src="https://minzhao1995.github.io/figures/ccdc.mp4" type="video/mp4"  width="720"></video>
 </center>
 
-To reduce the accumulated error of the LiDAR odometry, the satellite image patch, which is cropped on the pose given by the odometry, is compared with the LiDAR grid-map via a neural network. The network directly outputs the pose correction offset, which is added to the factor graph.
+To reduce the drifting error of the LiDAR odometry, the satellite image patch, which is cropped on the pose given by the odometry, is compared with the LiDAR grid-map via a neural network. The network directly outputs the pose correction offset, which is added to the factor graph.
 
 ### Air-ground Cross-view Semantic SLAM
 <center>
@@ -26,7 +26,7 @@ To reduce the accumulated error of the LiDAR odometry, the satellite image patch
 </center>
 <center>Flowchart of cross-view semantic information fusion (take the road category as an example) </center>
 
-To improve the precision of semantic segmentation, based on a LiDAR projection image, the semantic information from aerial view is fused with multiple ground views via Bayesian update.
+To improve the precision of semantic segmentation, based on a spherical projection image, the semantic information from aerial view is fused with multiple ground views via Bayesian update.
 
 
 # Projects
