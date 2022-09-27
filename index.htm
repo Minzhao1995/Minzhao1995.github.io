@@ -54,7 +54,7 @@
 	<!-- Main -->
 	<section role="main" class="container_16 clearfix">
 		<div class="grid_16">			
-				<h3>About</h3>				
+				<h3>About Me</h3>
 
 			    <p>I am an research engineer at Bytedance AI Lab. Before that, I received my M.S degree in Control Science and Engineering at <a href="https://english.bit.edu.cn/">Beijing Institute of Technology</a>. </p>
 				<p> My research interests are localization, perception and visual navigation. </p>
@@ -75,9 +75,9 @@
 
 		<div class="grid_16">			
 				<h3>Publications</h3>				
-				<table border-spacing="100 0px"> 
-					<col width=44%>
-					<col width=56%>
+				<table border-spacing="100 50px">
+					<col width=45%>
+					<col width=55%>
 
 					<tr class="sep">
 						<td>
@@ -90,10 +90,8 @@
 						<td class="tabletext">
 							<p><b>Minzhao Zhu</b>, Binglei Zhao, Tao Kong</a><br>
 								<b><em>Navigating to Objects in Unseen Environments by Distance Prediction<br>
-									ECCV 2022 <br>
+									IROS 2022 <br>
 									<a href="https://arxiv.org/pdf/2202.03735.pdf">[pdf]</a>
-									<a href="https://arxiv.org/pdf/2202.03735.pdf">[video]</a>
-
 						</td>
 					</tr>
 
@@ -117,8 +115,46 @@
 
 
 				 </table> 
-			
-		</div>	
+
+
+		</div>
+		<div class="grid_16">
+			<h3>Projects</h3>
+			<table border-spacing="100 50px">
+				<col width=45%>
+				<col width=55%>
+
+
+				<tr class="sep">
+					<td>
+
+						<video controls width="400" poster="figures/ccdc.png">
+							<source src="figures/ccdc.mp4"
+									type="video/mp4">
+						</video>
+					</td>
+					<td class="tabletext">
+						<p><b>Air-Ground Cross-View based LiDAR Odometry and Mapping</b><br>
+							To reduce the drifting error of the LiDAR odometry, the satellite image patch, which is cropped on the pose given by the odometry, is compared with the LiDAR grid-map via a neural network. The network directly outputs the pose correction offset, which is added to the factor graph.
+					</td>
+				</tr>
+
+				<tr class="sep">
+					<td>
+						<img src="figures/fusion.png" class="icon">
+					</td>
+					<td class="tabletext">
+						<p> <b>Air-ground Cross-view Semantic SLAM  </b><br>
+							To improve the precision of semantic segmentation, based on a spherical projection image, the semantic information from aerial view is fused with multiple ground views via Bayesian update.
+						
+					</td>
+				</tr>
+
+
+			</table>
+
+
+		</div>
 		<div class="grid_16">
 			<table border=0 cellpadding=0 width=100% style="line-height:18pt;  border-spacing: 0 6px;"> 
 					
