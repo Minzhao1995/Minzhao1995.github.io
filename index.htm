@@ -56,8 +56,8 @@
 		<div class="grid_16">			
 				<h3>About Me</h3>
 
-			    <p>I am an research engineer at Bytedance AI Lab. Before that, I received my M.S degree in Control Science and Engineering at <a href="https://english.bit.edu.cn/">Beijing Institute of Technology</a>. </p>
-				<p> My research interests are localization, perception and visual navigation. </p>
+			    <p>I am an research engineer at Bytedance AI Lab. Before that, I received my M.S degree in Control Science and Engineering at <a href="https://english.bit.edu.cn/">Beijing Institute of Technology</a>. My research interests are localization, perception and visual navigation. </p>
+
 
 		</div>
 		
@@ -88,14 +88,14 @@
 							</video>
 						</td>
 						<td class="tabletext">
-							<p><b>Minzhao Zhu</b>, Binglei Zhao, Tao Kong</a><br>
+							<p><b>Minzhao Zhu*</b>, Binglei Zhao*, Tao Kong</a><br>
 								<b><i>Navigating to Objects in Unseen Environments by Distance Prediction<br>
 									IROS 2022 </i></b><br>
 									<a href="https://arxiv.org/pdf/2202.03735.pdf">[pdf]</a><br>
 							<p	style = "text-align:justify" >
-							We propose a Object Goal Navigation (ObjectNav) method based on a estimated distance map.
-									A neural network takes an explored semantic map as input, and estimates the distance from map cells to the target object based on learned spatial relations between objects. With such distance map, the agent explores
-									and searches for the target using either classical planning methods or learned policy.
+							We propose an Object Goal Navigation (ObjectNav) method based on an estimated distance map.
+							A neural network takes an explored semantic map as input and estimates the distance from map cells to the target object based on learned spatial relations between objects. With such a distance map, the agent explores
+							and searches for the target using either classical planning methods or learned policy.
 							Our	method outperforms the RL-based baseline with only 12% training data.
 							</p>
 						</td>
@@ -116,9 +116,7 @@
 								Robotics and Autonomous Systems, 2020 </i></b><br>
 							<a href="https://minzhao1995.github.io/figures/RAS.pdf">[pdf]</a><br>
 							<p	style = "text-align:justify" > 	We propose a vehicle localization method using satellite images in GNSS-denied areas.
-								A neural network compares the spatial-discriminative feature maps of LiDAR grid-map and
-								satellite image patches. It outputs the probabilities of correspondence, based on which a particle
-								filter estimates the probability distribution of the vehicle's pose.</p>
+							A neural network compares the spatial-discriminative feature maps of LiDAR grid-map and satellite image patches. It outputs the probabilities of correspondence, based on which a particle filter estimates the probability distribution of the vehicle's pose.</p>
 						</td> 
 					</tr>
 
@@ -144,8 +142,7 @@
 					</td>
 					<td class="tabletext">
 						<p><b>Air-Ground Cross-View based LiDAR Odometry and Mapping</b><br>
-						<p	style = "text-align:justify" >  	To reduce the drifting error of the LiDAR odometry, the satellite image patch, which is cropped on the pose given by the odometry, is compared with the LiDAR grid-map via a neural network. The network directly outputs the pose correction offset, which is added to the factor graph.</p>
-					</td>
+						<p	style = "text-align:justify" >  	This project uses aerial images to reduce the drifting error of the LiDAR odometry, the aerial image patch, which is cropped on the pose given by the odometry, is compared with the LiDAR grid-map via a neural network. The network directly outputs the pose correction offset, which is added to the factor graph.</p>					</td>
 				</tr>
 
 				<tr class="sep">
@@ -154,8 +151,8 @@
 					</td>
 					<td class="tabletext">
 						<p> <b>Air-ground Cross-view Semantic SLAM  </b><br>
-						<p	style = "text-align:justify" > 	To improve the precision of semantic segmentation, based on a spherical projection image, the semantic information from aerial view is fused with multiple ground views via Bayesian update.</p>
-					</td>
+						<p	style = "text-align:justify" > 	This project fuses the semantics from LiDAR and aerial view.
+						Based on LiDAR spherical projection image, the semantic information from the aerial view is fused with multiple ground views via Bayesian update.</p>					</td>
 				</tr>
 
 				<tr class="sep">
@@ -164,7 +161,7 @@
 					</td>
 					<td class="tabletext">
 						<p> <b>UAV-UGV Cooperative System  </b><br>
-						<p	style = "text-align:justify" > The UAV and UGV search and track the moving target (a vehicle) in an unknown area (3 km x 3 km) collaboratively. I led our team to build this system and we won the <b>first place </b> in the 2018 China Unmanned System Challenge (Air-Ground Collaboration Contest).</p>
+						<p	style = "text-align:justify" > The UAV and UGV collaboratively search and track the moving target (a vehicle) in an unknown area (3 km x 3 km). I led our student team to build this system and we won the <b>first place </b> in the 2018 China Unmanned System Challenge (Air-Ground Collaboration Contest).</p>
 					</td>
 				</tr>
 
@@ -179,15 +176,15 @@
 					</td>
 				</tr>
 
-				<tr class="sep">
-					<td>
-						<img src="https://minzhao1995.github.io/figures/kvm.gif" class="icon">
-					</td>
-					<td class="tabletext">
-						<p> <b> Intelligent Mouse and Keyboard Switcher </b><br>
-						<p	style = "text-align:justify" > 	This project is designed to make it easy for users to operate multiple computers with a single mouse and keyboard. A face orientation recognition algorithm is designed to find which computer the user desires to use. Then the device automatically switches the mouse & keyboard signals to that computer.</p>
-					</td>
-				</tr>
+<!--				<tr class="sep">-->
+<!--					<td>-->
+<!--						<img src="https://minzhao1995.github.io/figures/kvm.gif" class="icon">-->
+<!--					</td>-->
+<!--					<td class="tabletext">-->
+<!--						<p> <b> Intelligent Mouse and Keyboard Switcher </b><br>-->
+<!--						<p	style = "text-align:justify" > 	This project is designed to make it easy for users to operate multiple computers with a single mouse and keyboard. A face orientation recognition algorithm is designed to find which computer the user desires to use. Then the device automatically switches the mouse & keyboard signals to that computer.</p>-->
+<!--					</td>-->
+<!--				</tr>-->
 
 				<tr class="sep">
 					<td>
@@ -195,7 +192,7 @@
 					</td>
 					<td class="tabletext">
 						<p> <b> BankBot </b><br>
-						<p	style = "text-align:justify" > 	This mobile robot is designed for bank reception service. Up until now, the robot has been deployed into service at 35 banks for 4 years.</p>
+						<p	style = "text-align:justify" > 	We developed the navigation system for a bank reception service robot. Up until now, the robots have been providing service at 35 banks for 4 years.</p>
 					</td>
 				</tr>
 
